@@ -22,6 +22,5 @@ describe('Componente principal', () => {
             expect(screen.getByText('Realizar operação')).toBeInTheDocument()
         })
     })
-
 })
 

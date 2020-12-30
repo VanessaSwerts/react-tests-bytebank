@@ -1,68 +1,75 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<p align="center">
+  <img alt="Travis CI" src="https://travis-ci.com/VanessaSwerts/react-tests-bytebank.svg?branch=master" />
+  
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VanessaSwerts/react-tests-bytebank?color=%2304D361">
 
-In the project directory, you can run:
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/VanessaSwerts/react-tests-bytebank">
+  
+  <a href="https://github.com/VanessaSwerts/react-tests-bytebank/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VanessaSwerts/react-tests-bytebank">
+  </a>
+     
+</p>
 
-### `npm start`
+<h4 align="center"> 
+	🚧 Bytebank - em desenvolvimento 🚧
+</h4>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-autores">Autores</a> • 
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `npm test`
+## 💻 Sobre o projeto
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Projeto desenvolvido com o curso de "React: Automatizando os testes em aplicações front-end" da Alura. 
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Como executar o projeto
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### Pré-requisitos
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 
-### `npm run eject`
+#### Executando o projeto
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+##### 🧭 Rodando a aplicação 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+    # Clone este repositório
+    $ git clone https://github.com/VanessaSwerts/react-tests-bytebank.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+    # Acesse a pasta do projeto no seu terminal/cmd
+    $ cd react-tests-bytebank
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+    # Instale as dependências
+    $ yarn install
 
-## Learn More
+    # Execute o back-end da aplicação
+    $ yarn run backend
+    
+    # Execute o front-end da aplicação
+    $ yarn start
+    
+    # Execute os testes da aplicação
+    $ yarn test
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    # Acesse o aplicativo expo e veja o projeto em execução, clique no aplicativo em execução.
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 🦸 Autores
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+<table>
+  <tr>       
+    <td align="center"><a href="https://github.com/vanessaSwerts/"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/57146734?v=4" width="100px;" alt=""/><br /><sub><b>Vanessa Swerts</b></sub></a></td>  
+  </tr>
+</table>
 
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+---

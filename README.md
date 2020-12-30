@@ -59,12 +59,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
     # Execute os testes da aplicação
     $ yarn test
 
-    # Acesse o aplicativo expo e veja o projeto em execução, clique no aplicativo em execução.
+    # O servidor inciará na porta:3333 - acesse http://localhost:3000 .
    ```
 
 ---
 
-## 🦸 Autores
+## 🦸 Autora
 
 <table>
   <tr>       

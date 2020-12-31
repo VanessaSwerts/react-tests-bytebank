@@ -3,9 +3,7 @@
   <img alt="Travis CI" src="https://travis-ci.com/VanessaSwerts/react-tests-bytebank.svg?branch=master" />
   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VanessaSwerts/react-tests-bytebank?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/VanessaSwerts/react-tests-bytebank">
-  
+   
   <a href="https://github.com/VanessaSwerts/react-tests-bytebank/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VanessaSwerts/react-tests-bytebank">
   </a>
@@ -13,13 +11,13 @@
 </p>
 
 <h4 align="center"> 
-	🚧 Bytebank - em desenvolvimento 🚧
+	🚧 Bytebank - Concluído 🚧
 </h4>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-autores">Autores</a> • 
+ <a href="#-autores">Autora</a> 
 </p>
 
 
